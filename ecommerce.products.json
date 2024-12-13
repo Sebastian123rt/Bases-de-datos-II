@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "675b186749d661643983aa91"
+  },
+  "name": "Laptop",
+  "descripcion": "Laptop con procesador Intel Core i7, 16GB RAM y 512GB SSD.",
+  "precio": "1.200.000",
+  "categoria": "Electronica",
+  "stock": "25",
+  "imagen": "https://helios-i.mashable.com/imagery/articles/05djrP5PjtVB7CcMtvrTOAP/hero-image.fill.size_1248x702.v1723100793.jpg"
+},
+{
+  "_id": {
+    "$oid": "675b730049d661643983aa9d"
+  },
+  "nombre": "camiseta deportiva",
+  "descripcion": "Camiseta ligera y transperible",
+  "precio": "20.000",
+  "imagen": "https://golty.com.co/wp-content/uploads/2024/08/camiseta-deportiva-golty-hombre-latir-negra-1.webp",
+  "categoria": "Ropa",
+  "stock": "50"
+},
+{
+  "_id": {
+    "$oid": "675b752049d661643983aa9f"
+  },
+  "nombre": "Auriculares inalambricos",
+  "descripcion": "Auriculares con cancelacion de ruido y excelente calidad de sonido",
+  "precio": "250.000",
+  "imagen": "https://www.celudmovil.com.co/cdn/shop/files/smartpodsproA_-PNG.webp?v=1703090811&width=1800",
+  "categoria": "Electronica"
+},
+{
+  "_id": {
+    "$oid": "675b7eaa49d661643983aaa1"
+  },
+  "nombre": "mochila de viaje",
+  "descripcion": "mochila espaciosa con multiples compartimientos y diseño ergonomico",
+  "precio": "180.000",
+  "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_956291-MCO70392431091_072023-F.webp",
+  "categoria": "Accesorios",
+  "stock": "25"
+},
+{
+  "_id": {
+    "$oid": "675b804f49d661643983aaa3"
+  },
+  "nombre": "zapatillas de Running",
+  "descripcion": "Zapatillas comodas y resistentes para largas distancias",
+  "precio": "280,000",
+  "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/66e5cd034ca845b1bfd6994472084bd4_9366/Tenis_de_Running_Supernova_Rise_Negro_IG5844_HM1.jpg",
+  "categoria": "Calzado",
+  "stock": "20"
+}]
