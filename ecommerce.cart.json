@@ -1,0 +1,76 @@
+[{
+  "_id": {
+    "$oid": "675ba76c49d661643983aab6"
+  },
+  "id_usuario": "user_001",
+  "productos": [
+    {
+      "id_producto": "prod_001",
+      "cantidad": 2
+    },
+    {
+      "id_producto": "prod_003",
+      "cantidad": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675ba87149d661643983aab8"
+  },
+  "id_usuario": "user_002",
+  "productos": [
+    {
+      "id_producto": "prod_002",
+      "cantidad": 1
+    },
+    {
+      " id_producto": "prod_005",
+      "cantidad": 2
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675ba91e49d661643983aaba"
+  },
+  "id_usuario": "user_003",
+  "productos": [
+    {
+      "id_producto": "prod_004",
+      "cantidad": "3"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675ba9f149d661643983aabc"
+  },
+  "id_usuario": "user_004",
+  "productos": [
+    {
+      "id_producto": "prod_001",
+      "cantidad": 1
+    },
+    {
+      "id_producto": "prod_002",
+      "cantidad": 2
+    },
+    {
+      "id_producto": "prod_003",
+      "cantidad": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675bab5a49d661643983aabe"
+  },
+  "id_usuario": "user_005",
+  "productos": [
+    {
+      "id_producto": "prod_005",
+      "cantidad": 1
+    }
+  ]
+}]
