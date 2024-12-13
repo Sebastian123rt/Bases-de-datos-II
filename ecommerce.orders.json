@@ -1,0 +1,86 @@
+[{
+  "_id": {
+    "$oid": "675bac4a49d661643983aac2"
+  },
+  "id_usuario": "user_001",
+  "productos": [
+    {
+      "id_producto": "prod_001",
+      "cantidad": 2
+    },
+    {
+      "id_producto": "prod_003",
+      "cantidad": 1
+    }
+  ],
+  "estado": "pendiente",
+  "total": 20
+},
+{
+  "_id": {
+    "$oid": "675bac7249d661643983aac4"
+  },
+  "id_usuario": "user_002",
+  "productos": [
+    {
+      "id_producto": "prod_002",
+      "cantidad": 1
+    },
+    {
+      "id_producto": "prod_005",
+      "cantidad": 2
+    }
+  ],
+  "estado": "pagado",
+  "total": 70
+},
+{
+  "_id": {
+    "$oid": "675bacd349d661643983aac6"
+  },
+  "id_usuario": "user_003",
+  "productos": [
+    {
+      "id_producto": "prod_004",
+      "cantidad": 3
+    }
+  ],
+  "estado": "enviado",
+  "total": 89
+},
+{
+  "_id": {
+    "$oid": "675bacf749d661643983aac8"
+  },
+  "id_usuario": "user_004",
+  "productos": [
+    {
+      "id_producto": "prod_001",
+      "cantidad": 1
+    },
+    {
+      "id_producto": "prod_002",
+      "cantidad": 2
+    },
+    {
+      "id_producto": "prod_003",
+      "cantidad": 1
+    }
+  ],
+  "estado": "pendiente",
+  "total": 99
+},
+{
+  "_id": {
+    "$oid": "675bae7849d661643983aaca"
+  },
+  "id_usuario": "user_005",
+  "productos": [
+    {
+      "id_producto": "prod_005",
+      "cantidad": 1
+    }
+  ],
+  "estado": "pagado",
+  "total": 49
+}]
