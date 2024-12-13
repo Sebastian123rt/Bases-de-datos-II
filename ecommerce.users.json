@@ -1,0 +1,53 @@
+[{
+  "_id": {
+    "$oid": "6758dd2466b68dc7180a9ead"
+  },
+  "nombre": "juanito",
+  "direccion": "cra 121A #56-57",
+  "telefono": "3216916631",
+  "rol": "admin",
+  "fecha de registro": "10/12/2024"
+},
+{
+  "_id": {
+    "$oid": "6758de0366b68dc7180a9eb3"
+  },
+  "nombre": "juanito",
+  "direccion": "cra 121A #56-57",
+  "telefono": "3216916631",
+  "rol": "cliente",
+  "fecha de registro": "10/12/2024"
+},
+{
+  "_id": {
+    "$oid": "675bafb149d661643983aace"
+  },
+  "nombre": "Juan Pérez",
+  "correo": "juan.perez@example.com",
+  "direccion": "Calle 123, BOGOTA, Colombia",
+  "telefono": "+57314567890",
+  "rol": "cliente",
+  "fecha_registro": "2023-05-01"
+},
+{
+  "_id": {
+    "$oid": "675bb03949d661643983aad0"
+  },
+  "nombre": "Maria López",
+  "correo": "maria.lopez@example.com",
+  "direccion": "Av. Central 456, Mexico city, Mexico",
+  "telefono": "+5287654321",
+  "rol": "admin",
+  "fecha_registro": "2022-08-15"
+},
+{
+  "_id": {
+    "$oid": "675bb26249d661643983aad2"
+  },
+  "nombre": "Carlos Ruiz",
+  "correo": "carlos.ruiz@example.com",
+  "direccion": "Plaza Mayor 789, Sao paulo, Brasil",
+  "telefono": "+5522334455",
+  "rol": "cliente",
+  "fecha_registro": "2023-02-20"
+}]
