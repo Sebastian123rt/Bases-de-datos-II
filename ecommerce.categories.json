@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "6758daf466b68dc7180a9eaa"
+  },
+  "nombre": "electronica",
+  "descripcion": "productos de electronica"
+},
+{
+  "_id": {
+    "$oid": "675b846549d661643983aaaa"
+  },
+  "nombre": "accesorios",
+  "descripcion": "productos adicionales para el uso diario"
+},
+{
+  "_id": {
+    "$oid": "675ba46749d661643983aaad"
+  },
+  "nombre": "calzado",
+  "descripcion": "zapatos y zapatillas para diferentes actividades y estilos"
+},
+{
+  "_id": {
+    "$oid": "675ba4dc49d661643983aaaf"
+  },
+  "nombre": "juguetes",
+  "descripcion": "productos para el entretenimiento y desarrollo de niños"
+},
+{
+  "_id": {
+    "$oid": "675ba58d49d661643983aab1"
+  },
+  "nombre": "belleza",
+  "descripcion": "Articulos de cuidado personal y productos de belleza"
+}]
